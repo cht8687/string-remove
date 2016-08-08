@@ -28,6 +28,7 @@ const result = stringRemove(yourString2, ['%t',' ', '%', '$', 't']);
 console.log(result);
 //=> 'es'
 
+```
 
 ## License
 
