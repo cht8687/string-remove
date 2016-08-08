@@ -29,6 +29,22 @@ console.log(result);
 //=> 'es'
 
 ```
+## API
+
+### stringRemove(str, [options])
+
+#### str
+
+Type: `string`
+
+String which need to be processed.
+
+#### string
+
+Type: `array`<br>
+
+
+Elements need to be removed.
 
 ## License
 
