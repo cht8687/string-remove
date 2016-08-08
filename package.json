@@ -1,0 +1,28 @@
+{
+  "name": "string-remove",
+  "version": "1.0.0",
+  "description": "Remove any unwanted stuffs in string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cht8687/string-remove.git"
+  },
+  "keywords": [
+    "string",
+    "remove",
+    "filter",
+    "string remove"
+  ],
+  "author": "Haotian Chang <cht8687@gmail.com> (https://haotianchang.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cht8687/string-remove/issues"
+  },
+  "homepage": "https://github.com/cht8687/string-remove#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
