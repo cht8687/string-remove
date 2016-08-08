@@ -19,7 +19,7 @@ const yourString1 = 'examle???string.@@!!';
 const result = stringRemove(yourString1, ['?','@','.','!']);
 
 console.log(result);
-//=> 'examlestring.!!'
+//=> 'examlestring'
 
 const yourString2 = '% % %t e s t$ $ $ ';
 
