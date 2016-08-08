@@ -39,7 +39,7 @@ Type: `string`
 
 String which need to be processed.
 
-#### string
+#### options
 
 Type: `array`<br>
 
