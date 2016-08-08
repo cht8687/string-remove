@@ -28,6 +28,7 @@ const result = stringRemove(yourString2, ['%t',' ', '%', '$', 't']);
 console.log(result);
 //=> 'es'
 
+
 ## License
 
 MIT © [haotian Chang](https://github.com/cht8687)
