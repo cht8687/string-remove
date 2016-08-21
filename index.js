@@ -5,7 +5,7 @@ module.exports = stringRemove;
 function stringRemove(str, options) {
   str = str + '';
   options.forEach(function(s) {
-	str = str.replaceAll(s, ''); 
+    str = str.replaceAll(s, ''); 
   });
   return str;
 }
