@@ -1,6 +1,6 @@
 {
   "name": "string-remove",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Remove any unwanted stuffs in string",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "filter",
     "string remove"
   ],
-  "author": "Haotian Chang <cht8687@gmail.com> (https://haotianchang.com)",
+  "author": "Robert Chang <cht8687@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cht8687/string-remove/issues"
